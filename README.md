@@ -1,0 +1,5 @@
+"Dash Runner" is an exciting Unity game created in March 2023 as a personal project to master essential Unity concepts. Developed with knowledge gained from "Unity Learn" online tutorials, this endless runner game is a platform for practicing animation, physics, particle systems, and sound effects.
+
+In "Dash Runner," players must navigate a continuous obstacle course, requiring precise jumps to evade incoming barriers. To add an extra layer of excitement, players can unleash a special power to boost their speed.
+
+The game's logical and attractive UI enhances the user experience, making it both engaging and enjoyable. All assets utilized in "Dash Runner" were generously provided by Unity Technologies, including the course library package. This project showcases the developer's dedication to honing their Unity skills and creating a fun, educational gaming experience.
